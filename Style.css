@@ -1,0 +1,61 @@
+#navn {
+	text-align: center;
+	font-family: raleway, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    padding-top: 325px;
+}
+
+#intro {
+    font-family: raleway, sans-serif;
+    text-align: center;
+    font-weight: 300;
+    padding-bottom: 425px;
+    color: white;
+}
+
+h2.languages {
+    font-family: raleway, sans-serif;
+}
+
+.languages {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding-bottom: 100px;
+}
+
+p.languages {
+    font-family: raleway, sans-serif;
+}
+
+p.list-intro {
+    font-size: 20px;
+    font-family: raleway;
+    font-weight: 300;
+}
+
+p.footer {
+    font-family: raleway, sans-serif;
+    text-align: center;
+}
+
+p.footer {
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+.header {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('D:\Hjemmesider/JonasHjemmeside/Images/1.jpg');
+    background-size: cover;
+    background-position: top center;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
